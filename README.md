@@ -21,6 +21,11 @@ En este proyecto vermos algunos de los comandos básicos de la consola de linux.
 
 ## Otros comandos importantes:
 
+1. find: Encuentra el archivo o directorio deseado. Ej: find -name "busca-este-archivo.txt"
+    - . Busca en todo el directorio padre. Ej find . -name "...."
+    - -type f Busca por tipo (archivo).
+2. cat: muestra el contenido de un archivo. Ej cat "este-archivo.txt"
+
 
   
 
